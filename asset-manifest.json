@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/1147837/Excel-sheet-Management/static/css/main.0622792c.css",
+    "main.js": "/1147837/Excel-sheet-Management/static/js/main.e3f74c46.js",
+    "static/js/453.31c40864.chunk.js": "/1147837/Excel-sheet-Management/static/js/453.31c40864.chunk.js",
+    "index.html": "/1147837/Excel-sheet-Management/index.html",
+    "main.0622792c.css.map": "/1147837/Excel-sheet-Management/static/css/main.0622792c.css.map",
+    "main.e3f74c46.js.map": "/1147837/Excel-sheet-Management/static/js/main.e3f74c46.js.map",
+    "453.31c40864.chunk.js.map": "/1147837/Excel-sheet-Management/static/js/453.31c40864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0622792c.css",
+    "static/js/main.e3f74c46.js"
+  ]
+}
